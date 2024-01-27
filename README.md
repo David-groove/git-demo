@@ -4,4 +4,6 @@ aloossd
 asd
 
 axlad damatebuli
+<<<<<<< HEAD
 koko jambo
+samshoblo
