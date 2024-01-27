@@ -4,3 +4,4 @@ aloossd
 asd
 
 axlad damatebuli
+koko jambo
